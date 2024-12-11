@@ -1,0 +1,9 @@
+,0
+psnr,21.272231954282468
+lpips,0.1732734949974058
+mse,0.010021719008186982
+ssim,0.6936542076973228
+clip_similarity_source_image,26.138996342495755
+clip_similarity_target_image,23.79890804118938
+clip_similarity_target_image_edit_part,21.211902339179236
+structure_distance,0.020555183582965767

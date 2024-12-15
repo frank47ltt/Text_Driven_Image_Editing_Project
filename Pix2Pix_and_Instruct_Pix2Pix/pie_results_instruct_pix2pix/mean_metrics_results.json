@@ -1,0 +1,5 @@
+{
+    "mean_ssim": 0.336,
+    "mean_lpips": 0.671,
+    "mean_clip_similarity_target": 26.28
+}

@@ -7,4 +7,6 @@ This is a course project for ESE 6450 - Deep Generative Models at University of 
 
 `null_text_inversion.py` contains the code for evaluating null text inversion technique on PIE-Bench.
 
+Consistency Model implementation is in branch `consistency_model`.
+
 Our project report is available here and poster is available here.

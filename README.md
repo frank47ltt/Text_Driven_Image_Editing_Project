@@ -9,4 +9,4 @@ This is a course project for ESE 6450 - Deep Generative Models at University of 
 
 Consistency Model implementation is in branch `consistency_model`.
 
-Our project report is available here and poster is available here.
+Our project report and poster are available in the repo as well.
